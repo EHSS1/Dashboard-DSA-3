@@ -1,3 +1,3 @@
-Mini Projeto 2 
+Mini Projeto 1 - Análise de Campanhas de Marketing com Power BI 
 
-Dashboard Comercial - Performance de Vendas 
+Visão Cliente 
